@@ -14,9 +14,8 @@ Summary: Makes zebra-striped tables (tables with alternating row colors) in LaTe
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-ztable-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-ztable-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-ztable-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-ztable-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-ztable-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-ztable-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-ztable-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-ztable-feedstock)
 
 Current release info
 ====================
