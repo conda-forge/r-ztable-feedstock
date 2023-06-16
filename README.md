@@ -1,11 +1,11 @@
-About r-ztable
-==============
+About r-ztable-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ztable-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/cardiomoon/ztable
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ztable-feedstock/blob/main/LICENSE.txt)
 
 Summary: Makes zebra-striped tables (tables with alternating row colors) in LaTeX and HTML formats easily from a data.frame, matrix, lm, aov, anova, glm, coxph, nls, fitdistr, mytable and cbind.mytable objects.
 
