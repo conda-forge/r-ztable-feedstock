@@ -1,6 +1,5 @@
 {% set version = "0.2.3" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-ztable
@@ -13,8 +12,7 @@ source:
   sha256: 4896d984c06d5174e4c74fb1b673d0ceb1e16797731995c1059a2006418f47df
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
