@@ -1,4 +1,4 @@
-{% set version = "0.2.3" %}
+{% set version = "0.2.5" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ztable_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ztable/ztable_{{ version }}.tar.gz
-  sha256: 4896d984c06d5174e4c74fb1b673d0ceb1e16797731995c1059a2006418f47df
+  sha256: 5264568c553f6ada40f4fdfc5a41c957b67cb9618793293a773684536a2bc002
 
 build:
-  number: 4
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
